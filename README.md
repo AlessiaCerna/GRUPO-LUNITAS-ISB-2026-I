@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/blob/main/Multimedia/LUNITA.jpeg">
+</p>
 
 # Bienvenidos al repositorio del Grupo Lunitas.
 
