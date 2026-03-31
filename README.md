@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/blob/main/Multimedia/LUNITA.jpeg" height="200">
+  <img src="https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/blob/main/Multimedia/LUNITA.jpeg" height="200" width="1000">
 </p>
 
 # Bienvenidos al repositorio del Grupo Lunitas.
