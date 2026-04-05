@@ -5,7 +5,7 @@
 # Bienvenidos al repositorio del Grupo Lunitas.
 
 - Curso: Introducción a Señales Biomédicas
-- Proyecto: 
+- Proyecto: Análisis de señales electroencefalográficas (EEG) ante estímulos sonoros para la reducción del estrés académico.
 
 ## Profesores del curso
 
@@ -30,7 +30,7 @@
 2.  **Laboratorios**
    - [Laboratorio 1 - Git y GitHub](https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/blob/main/Laboratorios/Laboratorio%201%20-%20Git%20y%20Github)
 
-3.  [**Proyecto**](https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/tree/main/Proyecto)
+3.  **Proyecto**
    - [Hardware](https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/tree/main/Proyecto/Hardware)
    - [Software](https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/tree/main/Proyecto/Software)
 
