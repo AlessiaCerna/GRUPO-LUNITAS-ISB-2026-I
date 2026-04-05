@@ -25,11 +25,12 @@
 
 ## Contenido
 
-### 1. [CITI program - certificados](https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/tree/main/CITI%20program%20-%20certificados)
-### 2. Laboratorios
-#### a. [Laboratorio 1 - Git y Github](https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/blob/main/Laboratorios/Laboratorio%201%20-%20Git%20y%20Github)
-#### b.
-### 3. [Proyecto](https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/tree/main/Proyecto)
-#### a. [Hardware](https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/tree/main/Proyecto/Hardware)
-#### b. [Software](https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/tree/main/Proyecto/Software)
+1.  [**CITI program - certificados**](https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/tree/main/CITI%20program%20-%20certificados)
+
+2.  **Laboratorios**
+   - [Laboratorio 1 - Git y GitHub](https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/blob/main/Laboratorios/Laboratorio%201%20-%20Git%20y%20Github)
+
+3.  [**Proyecto**](https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/tree/main/Proyecto)
+   - [Hardware](https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/tree/main/Proyecto/Hardware)
+   - [Software](https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/tree/main/Proyecto/Software)
 
