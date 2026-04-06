@@ -48,15 +48,25 @@ De esta manera, se busca generar evidencia que respalde el desarrollo de estrate
 
 ## Referencias
 [1] M. Cassaretto, P. Vilela, and L. Gamarra, “Estrés académico en universitarios peruanos: importancia de las conductas de salud, características sociodemográficas y académicas,” Liberabit Revista Peruana De Psicología, vol. 27, no. 2, p. e482, Dec. 2021, doi: 10.24265/liberabit.2021.v27n2.07.
+
 [2] K. Sotelo Castillo and C. Recabarren Jimenez, “Factores asociados al estrés académico en estudiantes universitarios: una revisión crítica,” Universidad Peruana Cayetano Heredia, 2025. [Online]. Available: https://hdl.handle.net/20.500.12866/17582
+
 [3] M. F. S. Ramos, J. J. L. Cocotle, and M. E. C. M. Zamora, “Estrés académico en estudiantes universitarios,” Dialnet, 2020. https://dialnet.unirioja.es/servlet/articulo?codigo=7689029
+
 [4] L. E. Crack and P. K. Doyle-Baker, “Stress levels in university/college female students at the start of the academic year,” Journal of American College Health, vol. 70, no. 5, pp. 1311–1314, Aug. 2020, doi: 10.1080/07448481.2020.1803880.
+
 [5] M. C. Pascoe, S. E. Hetrick, and A. G. Parker, “The impact of stress on students in secondary school and higher education,” International Journal of Adolescence and Youth, vol. 25, no. 1, pp. 104–112, Apr. 2019, doi: 10.1080/02673843.2019.1596823.
+
 [6] A. Agorastos and G. P. Chrousos, “The neuroendocrinology of stress: the stress-related continuum of chronic disease development,” Molecular Psychiatry, vol. 27, no. 1, pp. 502–513, Jul. 2021, doi: 10.1038/s41380-021-01224-9.
+
 [7] “Physiology, stress reaction,” PubMed, Jan. 01, 2026. https://pubmed.ncbi.nlm.nih.gov/31082164/
+
 [8] M. De Witte, A. Spruit, S. Van Hooren, X. Moonen, and G.-J. Stams, “Effects of music interventions on stress-related outcomes: a systematic review and two meta-analyses,” Health Psychology Review, vol. 14, no. 2, pp. 294–324, Jun. 2019, doi: 10.1080/17437199.2019.1627897.
+
 [9] “Hormona del estrés: cortisol: funciones y enfermedades en las que participa-getein.com.” https://es.getein.com/blog/stress-hormone-cortisol-the-roles-and-diseases-it-takes-part-in_b20
+
 [10] M. V. Thoma, R. La Marca, R. Brönnimann, L. Finkel, U. Ehlert, and U. M. Nater, “The effect of music on the human stress response,” PLoS ONE, vol. 8, no. 8, p. e70156, Aug. 2013, doi: 10.1371/journal.pone.0070156.
+
 [11] M. De Witte, A. Da Silva Pinho, G.-J. Stams, X. Moonen, A. E. R. Bos, and S. Van Hooren, “Music therapy for stress reduction: a systematic review and meta-analysis,” Health Psychology Review, vol. 16, no. 1, pp. 134–159, Nov. 2020, doi: 10.1080/17437199.2020.1846580.
 [12] L. Zoppi, “Musicoterapia: Tipos y beneficios para la ansiedad, la depresión y más,” Aug. 15, 2021. https://www.medicalnewstoday.com/articles/es/terapia-musical-musicoterapia#para-la-ansiedad
 [13] “Minedu y el Minsa trabajan con 21 universidades públicas en el cuidado de la salud mental,” Noticias - Ministerio De Educación - Plataforma Del Estado Peruano. https://www.gob.pe/institucion/minedu/noticias/52741-minedu-y-el-minsa-trabajan-con-21-universidades-publicas-en-el-cuidado-de-la-salud-mental
