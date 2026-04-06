@@ -68,6 +68,8 @@ De esta manera, se busca generar evidencia que respalde el desarrollo de estrate
 [10] M. V. Thoma, R. La Marca, R. Brönnimann, L. Finkel, U. Ehlert, and U. M. Nater, “The effect of music on the human stress response,” PLoS ONE, vol. 8, no. 8, p. e70156, Aug. 2013, doi: 10.1371/journal.pone.0070156.
 
 [11] M. De Witte, A. Da Silva Pinho, G.-J. Stams, X. Moonen, A. E. R. Bos, and S. Van Hooren, “Music therapy for stress reduction: a systematic review and meta-analysis,” Health Psychology Review, vol. 16, no. 1, pp. 134–159, Nov. 2020, doi: 10.1080/17437199.2020.1846580.
+
 [12] L. Zoppi, “Musicoterapia: Tipos y beneficios para la ansiedad, la depresión y más,” Aug. 15, 2021. https://www.medicalnewstoday.com/articles/es/terapia-musical-musicoterapia#para-la-ansiedad
+
 [13] “Minedu y el Minsa trabajan con 21 universidades públicas en el cuidado de la salud mental,” Noticias - Ministerio De Educación - Plataforma Del Estado Peruano. https://www.gob.pe/institucion/minedu/noticias/52741-minedu-y-el-minsa-trabajan-con-21-universidades-publicas-en-el-cuidado-de-la-salud-mental
 
