@@ -26,6 +26,18 @@ De esta manera, se busca generar evidencia que respalde el desarrollo de estrate
 
 ## Plan de actividades
 
+| Fase | Actividades | Semana | 
+| :-------: | :-------: |  :-------: | 
+| Fase 1: Revisión bibliográfica | Búsqueda y análisis de artículos científicos sobre estrés académico, EEG y estímulos sonoros. | 1 – 2  | 
+| Fase 2: Diseño metodológico | Definición del protocolo experimental, variables, métricas EEG y selección de instrumentos de medición (encuestas). | 3 – 4 | 
+| Fase 3: Preparación experimental | Selección de estímulos sonoros. Configuración del sistema EEG y herramientas de software. Desarrollo de pruebas piloto. |5 – 6|
+|Fase 4: Validación inicial| Aplicación del experimento a un grupo reducido de estudiantes. Identificación de posibles errores en el procedimiento, tiempos o registro de señales. Ajuste del protocolo experimental. | 7|
+|Fase 5: Recolección de datos| Aplicación del experimento a los participantes. Registro de señales EEG y aplicación de encuestas.| 8 – 10|
+|Fase 6: Procesamiento de señales|Preprocesamiento de EEG (filtrado, eliminación de artefactos). Organización de la base de datos.| 11 – 12|
+|Fase 7: Análisis de datos| Extracción de características (bandas de frecuencia, relación alfa/beta) y análisis comparativo entre condiciones. | 13|
+|Fase 8: Interpretación de resultados|Integración de resultados EEG y autorreporte. Discusión de hallazgos.|14|
+|Fase 9: Informe final y presentación|Redacción del informe final, conclusiones y preparación de la exposición.|15 - 16|
+
 
 
 ## Referencias
