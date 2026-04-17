@@ -1,1 +1,9 @@
+# EMG
 
+## INTRODUCCIÓN
+
+## METODOLOGÍA
+
+## DISCUSIÓN
+
+## REFERENCIAS
