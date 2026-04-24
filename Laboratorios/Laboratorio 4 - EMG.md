@@ -20,7 +20,7 @@ La electromiografía (EMG) es una técnica utilizada para registrar la actividad
 
 ### Desventajas
 - La EMG intramuscular es invasiva  
-- La sEMG solo mide músculos superficiales  
+- Las EMG solo mide músculos superficiales  
 - Susceptibilidad al ruido e interferencias  
 - La señal puede verse afectada por los tejidos [2]
 
@@ -44,8 +44,8 @@ En este laboratorio se emplea el sistema BITalino para la adquisición de señal
 ### 3.2.1. Prueba 1  
 En primer lugar, se registró la señal electromiográfica (EMG) de la participante en condición de reposo, con el fin de establecer una línea base para posteriores comparaciones.  
 
-![Conexión correcta](../../Repositorio-Imágenes/Lab3_I02_electrodos_correctos.jpeg) 
-> - **Electrodo rojo (+):** bíceps (zona activa)<br>- **Electrodo negro (–):** bíceps (zona pasiva)<br>- **Electrodo blanco:** espina ilíaca antero-superior (referencia) 
+![Conexión correcta](https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/blob/main/Multimedia/image003.jpg) 
+> **Electrodo rojo (+):** bíceps (zona activa)<br>- **Electrodo negro (–):** bíceps (zona pasiva)<br>- **Electrodo blanco:** espina ilíaca antero-superior (referencia) 
 
 
 ### 3.2.2. Prueba 2  
