@@ -28,7 +28,7 @@ En este laboratorio se emplea el sistema BITalino para la adquisición de señal
 - Configuración correcta del sistema BiTalino para adquisición electromiográfica.  .  
 - Extraer la información de las señales EMG utilizando la plataforma OpenSignals (r)evolution para realizar el procesamiento y análisis de datos.
 
-# 3. Metodología
+## 3. Metodología
 
 ## 3.1 Materiales y equipos
 | Modelo       | Descripción   | Cantidad |
