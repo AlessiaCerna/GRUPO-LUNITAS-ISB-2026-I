@@ -38,10 +38,10 @@ En este laboratorio se emplea el sistema BITalino para la adquisición de señal
 
 ## 3.2 Procedimiento  
 
-## 3.2.1. Prueba 1  
+### 3.2.1. Prueba 1  
 En primer lugar, se registró la señal electromiográfica (EMG) de la participante en condición de reposo, con el fin de establecer una línea base para posteriores comparaciones.  
 
-## 3.2.2. Prueba 2  
+### 3.2.2. Prueba 2  
 La participante realizó flexión del brazo izquierdo durante un intervalo de -- segundos, seguido de un período de reposo de -- segundos. Este procedimiento fue repetido en múltiples ciclos consecutivos con el fin de evaluar la variación de la señal EMG entre estados de reposo y contracción.  
 
 ### 3.2.3. Prueba 3  
