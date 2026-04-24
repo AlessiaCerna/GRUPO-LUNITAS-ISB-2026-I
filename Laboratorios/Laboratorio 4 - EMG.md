@@ -2,6 +2,9 @@
 
 ## Tabla de contenidos
 1. [Introducción](#1-introducción)
+2. [Objetivos](#2-objetivos)
+3. [Metodología](#3-metodología)
+4. [Discusión](#4-discusión)
 
 ---
 
@@ -47,8 +50,16 @@ La participante realizó flexión del brazo izquierdo durante un intervalo de --
 ### 3.2.3. Prueba 3  
 La participante efectuó flexión del brazo izquierdo contra una carga externa de 2 kg, con el objetivo de analizar la respuesta electromiográfica ante un esfuerzo mayor. Posteriormente, se consideró un período de reposo. Este protocolo se repitió en varios ciclos para garantizar la consistencia de los resultados.
 
+### 3.2.4. Prueba 4
+Se registró la señal electromiográfica (EMG) de la participante en condición de reposo, con el fin de establecer una línea base para posteriores comparaciones. Las señales captadas provienen del músculo gastrocnemio.
+
+### 3.2.4. Prueba 5
+La participante realizó flexión plantar del tobillo durante un intervalo de -- segundos, seguido de un período de reposo de -- segundos. Este procedimiento fue repetido en múltiples ciclos consecutivos con el fin de evaluar la variación de la señal EMG entre estados de reposo y contracción.
+
 ## 3.3 Procesamiento y visualización de señales EMG en Python
 Se analizo el biceps braquial el formato txt se pasó a python
+
+
 ### 3.3.1. Prueba 1 - Señal EMG en reposo
 
 
