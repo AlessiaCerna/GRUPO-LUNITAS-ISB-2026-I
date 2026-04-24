@@ -47,4 +47,11 @@ La participante realizó flexión del brazo izquierdo durante un intervalo de --
 ### 3.2.3. Prueba 3  
 La participante efectuó flexión del brazo izquierdo contra una carga externa de 2 kg, con el objetivo de analizar la respuesta electromiográfica ante un esfuerzo mayor. Posteriormente, se consideró un período de reposo. Este protocolo se repitió en varios ciclos para garantizar la consistencia de los resultados.
 
+## 3.3 Procesamiento y visualización de señales EMG en Python
+Se analizo el biceps braquial el formato txt se pasó a python
+### 3.3.1. Prueba 1 - Señal EMG en reposo
+
+
+# 4. Discusión 
+
 
