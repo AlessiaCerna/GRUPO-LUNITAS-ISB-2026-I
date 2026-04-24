@@ -30,12 +30,12 @@ En este laboratorio se emplea el sistema BITalino para la adquisición de señal
 
 ## 3. Metodología
 
-## 3.1 Materiales y equipos
+### 3.1 Materiales y equipos
 | Modelo       | Descripción   | Cantidad |
 |:------------:|:-------------:|:--------:|
 | (R)EVOLUTION | Kit BITalino  |    1     |
 | -            | Laptop o PC   |    1     |
 
-## 3.2 Procedimiento
+### 3.2 Procedimiento
 
 
