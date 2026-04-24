@@ -44,6 +44,10 @@ En este laboratorio se emplea el sistema BITalino para la adquisición de señal
 ### 3.2.1. Prueba 1  
 En primer lugar, se registró la señal electromiográfica (EMG) de la participante en condición de reposo, con el fin de establecer una línea base para posteriores comparaciones.  
 
+![Conexión correcta](../../Repositorio-Imágenes/Lab3_I02_electrodos_correctos.jpeg) 
+> - **Electrodo rojo (+):** bíceps (zona activa)<br>- **Electrodo negro (–):** bíceps (zona pasiva)<br>- **Electrodo blanco:** espina ilíaca antero-superior (referencia) 
+
+
 ### 3.2.2. Prueba 2  
 La participante realizó flexión del brazo izquierdo durante un intervalo de -- segundos, seguido de un período de reposo de -- segundos. Este procedimiento fue repetido en múltiples ciclos consecutivos con el fin de evaluar la variación de la señal EMG entre estados de reposo y contracción.  
 
@@ -56,13 +60,99 @@ Se registró la señal electromiográfica (EMG) de la participante en condición
 ### 3.2.4. Prueba 5
 La participante realizó flexión plantar del tobillo durante un intervalo de -- segundos, seguido de un período de reposo de -- segundos. Este procedimiento fue repetido en múltiples ciclos consecutivos con el fin de evaluar la variación de la señal EMG entre estados de reposo y contracción.
 
-## 3.3 Procesamiento y visualización de señales EMG en Python
-Se analizo el biceps braquial el formato txt se pasó a python
+# 4. Procesamiento y visualización de señales EMG en Python
 
+## 4.1. Experimento 1: Bíceps
 
-### 3.3.1. Prueba 1 - Señal EMG en reposo
+### 4.1.1. Prueba 1 (Señal EMG en reposo)
+<p align="center">
+  <img src="https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/blob/main/Multimedia/WhatsApp%20Image%202026-04-24%20at%2011.55.14.jpeg" 
+       alt="b_reposo" width="800" height="400">
+</p>
+<p align="center">
+  <img src="https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/blob/main/Multimedia/WhatsApp%20Image%202026-04-24%20at%2011.55.14%20(1).jpeg" 
+       alt="b_reposo" width="800" height="400">
+</p>
 
+### 4.1.2. Prueba 2
+<p align="center">
+  <img src="https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/blob/main/Multimedia/WhatsApp%20Image%202026-04-24%20at%2011.56.51.jpeg" 
+       width="800" height="400">
+</p>
+<p align="center">
+  <img src="https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/blob/main/Multimedia/WhatsApp%20Image%202026-04-24%20at%2011.57.02.jpeg" width="800" height="400">
+</p>
 
-# 4. Discusión 
+### 4.1.3. Prueba 3
+<p align="center">
+  <img src="https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/blob/main/Multimedia/WhatsApp%20Image%202026-04-24%20at%2011.57.39.jpeg" width="800" height="400">
+</p>
+<p align="center">
+  <img src="https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/blob/main/Multimedia/WhatsApp%20Image%202026-04-24%20at%2011.57.47.jpeg" width="800" height="400">
+</p>
 
+### 4.1.4. Prueba 4
+<p align="center">
+  <img src="https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/blob/main/Multimedia/WhatsApp%20Image%202026-04-24%20at%2011.58.48.jpeg" width="800" height="400">
+</p>
+<p align="center">
+  <img src="https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/blob/main/Multimedia/WhatsApp%20Image%202026-04-24%20at%2011.58.48%20(1).jpeg" width="800" height="400">
+</p>
 
+### 4.1.5. Prueba 5
+<p align="center">
+  <img src="https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/blob/main/Multimedia/WhatsApp%20Image%202026-04-24%20at%2011.59.47.jpeg" width="800" height="400">
+</p>
+<p align="center">
+  <img src="https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/blob/main/Multimedia/WhatsApp%20Image%202026-04-24%20at%2011.59.47%20(1).jpeg" width="800" height="400">
+</p>
+
+### 4.1.6. Prueba 6 (Basal de fuerzas)
+<p align="center">
+  <img src="https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/blob/main/Multimedia/WhatsApp%20Image%202026-04-24%20at%2012.00.54.jpeg" width="800" height="400">
+</p>
+<p align="center">
+  <img src="https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/blob/main/Multimedia/WhatsApp%20Image%202026-04-24%20at%2012.00.54%20(1).jpeg" width="800" height="400">
+</p>
+
+### 4.1.7. Prueba 7
+<p align="center">
+  <img src="https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/blob/main/Multimedia/WhatsApp%20Image%202026-04-24%20at%2012.01.35.jpeg" width="800" height="400">
+</p>
+<p align="center">
+  <img src="https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/blob/main/Multimedia/WhatsApp%20Image%202026-04-24%20at%2012.01.35%20(1).jpeg" width="800" height="400">
+</p>
+
+### 4.1.8. Prueba 8
+<p align="center">
+  <img src="https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/blob/main/Multimedia/WhatsApp%20Image%202026-04-24%20at%2012.03.10.jpeg" width="800" height="400">
+</p>
+<p align="center">
+  <img src="https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/blob/main/Multimedia/WhatsApp%20Image%202026-04-24%20at%2012.03.23.jpeg" width="800" height="400">
+</p>
+
+## 4.2. Experimento 2: Gastrocnemio
+
+### 4.2.1. Prueba 1 (Basal)
+<p align="center">
+  <img src="https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/blob/main/Multimedia/WhatsApp%20Image%202026-04-24%20at%2012.04.17.jpeg" width="800" height="400">
+</p>
+<p align="center">
+  <img src="https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/blob/main/Multimedia/WhatsApp%20Image%202026-04-24%20at%2012.04.17%20(1).jpeg" width="800" height="400">
+</p>
+
+### 4.2.2. Prueba 2 (Basal)
+<p align="center">
+  <img src="https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/blob/main/Multimedia/WhatsApp%20Image%202026-04-24%20at%2012.05.00.jpeg" width="800" height="400">
+</p>
+<p align="center">
+  <img src="https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/blob/main/Multimedia/WhatsApp%20Image%202026-04-24%20at%2012.05.06.jpeg" width="800" height="400">
+</p>
+
+### 4.2.3. Prueba 3
+<p align="center">
+  <img src="https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/blob/main/Multimedia/WhatsApp%20Image%202026-04-24%20at%2012.05.41.jpeg" width="800" height="400">
+</p>
+<p align="center">
+  <img src="https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/blob/main/Multimedia/WhatsApp%20Image%202026-04-24%20at%2012.05.41%20(1).jpeg" width="800" height="400">
+</p>
