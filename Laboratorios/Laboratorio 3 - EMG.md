@@ -184,7 +184,7 @@ La participante realizó flexión plantar del tobillo durante un intervalo de 10
   <img src="https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/blob/main/Multimedia/WhatsApp%20Image%202026-04-24%20at%2012.04.17%20(1).jpeg" width="800" height="400">
 </p>
 
-### 4.2.2. Prueba 2 (Basal)
+### 4.2.2. Prueba 2 
 <p align="center">
   <img src="https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/blob/main/Multimedia/WhatsApp%20Image%202026-04-24%20at%2012.05.00.jpeg" width="800" height="400">
 </p>
