@@ -1,4 +1,4 @@
-# LABORATORIO 4: USO DE BITalino PARA EMG
+# LABORATORIO 3: USO DE BITalino PARA EMG
 
 ## Tabla de contenidos
 1. [Introducción](#1-introducción)
@@ -6,6 +6,7 @@
 3. [Metodología](#3-metodología)
 4. [Procesamiento y visualización de señales EMG en Python](#4-procesamientoyvisualizacióndeseñalesemgenpython)
 5. [Discusión](#5-discusión)
+6. [Bibliografía](#6-bibliografía)
 
 ---
 
@@ -200,3 +201,8 @@ La participante realizó flexión plantar del tobillo durante un intervalo de 10
 </p>
 
 # 5. Discusión
+
+# 6. Bibliografía 
+[1] B. Chan, I. Saad, N. Bolong, y K. E. Siew, “A Review of Surface EMG in Clinical Rehabilitation Care Systems Design”, en 2021 IEEE 19th Student Conference on Research and Development (SCOReD), nov. 2021, pp. 371–376. doi: 10.1109/SCOReD53546.2021.9652736.
+
+[2] M. Boyer, L. Bouyer, J.-S. Roy, y A. Campeau-Lecours, “Reducing Noise, Artifacts and Interference in Single-Channel EMG Signals: A Review”, Sensors, vol. 23, núm. 6, p. 2927, ene. 2023, doi: 10.3390/s23062927.
