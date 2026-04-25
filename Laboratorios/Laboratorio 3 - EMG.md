@@ -108,7 +108,18 @@ La participante realizó flexión plantar del tobillo durante un intervalo de 10
        alt="b_reposo" width="800" height="400">
 </p>
 
-### 4.1.2. Prueba 2
+### 4.1.2. Prueba 2 (Flexión de brazo)
+
+- Toma 1:
+<p align="center">
+  <img src="https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/blob/main/Multimedia/WhatsApp%20Image%202026-04-24%20at%2011.56.51.jpeg" width="800" height="400">
+</p>
+<p align="center">
+  <img src="https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/blob/main/Multimedia/WhatsApp%20Image%202026-04-24%20at%2011.57.02.jpeg" width="800" height="400">
+</p>
+
+- Toma 2:
+
 <p align="center">
   <img src="https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/blob/main/Multimedia/WhatsApp%20Image%202026-04-24%20at%2011.57.39.jpeg" width="800" height="400">
 </p>
@@ -116,7 +127,19 @@ La participante realizó flexión plantar del tobillo durante un intervalo de 10
   <img src="https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/blob/main/Multimedia/WhatsApp%20Image%202026-04-24%20at%2011.57.47.jpeg" width="800" height="400">
 </p>
 
-###  4.1.3. Prueba 3
+###  4.1.3. Prueba 3 (Flexión de brazo con contrapeso)
+
+- Toma 1:
+
+<p align="center">
+  <img src="https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/blob/main/Multimedia/WhatsApp%20Image%202026-04-24%20at%2011.58.48.jpeg" width="800" height="400">
+</p>
+<p align="center">
+  <img src="https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/blob/main/Multimedia/WhatsApp%20Image%202026-04-24%20at%2011.58.48%20(1).jpeg" width="800" height="400">
+</p>
+
+- Toma 2:
+
 <p align="center">
   <img src="https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/blob/main/Multimedia/WhatsApp%20Image%202026-04-24%20at%2011.59.47.jpeg" width="800" height="400">
 </p>
@@ -124,7 +147,7 @@ La participante realizó flexión plantar del tobillo durante un intervalo de 10
   <img src="https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/blob/main/Multimedia/WhatsApp%20Image%202026-04-24%20at%2011.59.47%20(1).jpeg" width="800" height="400">
 </p>
 
-### 4.1.6. Prueba 4 (Basal de fuerzas)
+### 4.1.4. Prueba 4 (Basal de fuerzas)
 <p align="center">
   <img src="https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/blob/main/Multimedia/WhatsApp%20Image%202026-04-24%20at%2012.00.54.jpeg" width="800" height="400">
 </p>
@@ -132,7 +155,17 @@ La participante realizó flexión plantar del tobillo durante un intervalo de 10
   <img src="https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/blob/main/Multimedia/WhatsApp%20Image%202026-04-24%20at%2012.00.54%20(1).jpeg" width="800" height="400">
 </p>
 
-### 4.1.7. Prueba 5
+### 4.1.5. Prueba 5
+
+- Toma 1:
+<p align="center">
+  <img src="https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/blob/main/Multimedia/WhatsApp%20Image%202026-04-24%20at%2012.01.35.jpeg" width="800" height="400">
+</p>
+<p align="center">
+  <img src="https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/blob/main/Multimedia/WhatsApp%20Image%202026-04-24%20at%2012.00.54%20(1).jpeg" width="800" height="400">
+</p>
+
+- Toma 2: 
 <p align="center">
   <img src="https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/blob/main/Multimedia/WhatsApp%20Image%202026-04-24%20at%2012.03.10.jpeg" width="800" height="400">
 </p>
