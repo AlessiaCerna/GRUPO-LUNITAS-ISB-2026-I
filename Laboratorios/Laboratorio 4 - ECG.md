@@ -4,7 +4,7 @@
 1. [Introducción](#1-introducción)
 2. [Objetivos](#2-objetivos)
 3. [Metodología](#3-metodología)
-4. [Procesamiento y visualización de señales EcG en Python](#4-procesamientoyvisualizacióndeseñalesemgenpython)
+4. [Procesamiento y visualización de señales ECG en Python](#4-procesamientoyvisualizacióndeseñalesecgenpython)
 5. [Discusión](#5-discusión)
 6. [Bibliografía](#6-bibliografía)
 
@@ -33,7 +33,7 @@ El electrocardiograma (ECG) es una prueba no invasiva y de rápida ejecución qu
 ### 3.2.5 
 ### 3.2.6 
 ### 3.2.7
-# 4. Procesamiento y visualización de señales EMG en Python
+# 4. Procesamiento y visualización de señales ECG en Python
 
 ## 4.1. Basal:
 ### 4.1.1 Derivación 1
