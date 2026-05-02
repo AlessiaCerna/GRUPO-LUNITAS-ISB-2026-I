@@ -38,8 +38,8 @@ El electrocardiograma (ECG) es una prueba no invasiva y de rápida ejecución qu
 ### 4.1.1 Derivación 1
 
 <p align="center">
-  <img src="Multimedia/ECG/P0_Basal_D1_tiempo_mV.png" width="45%">
-  <img src="Multimedia/ECG/P0_Basal_D1_fft_db.png" width="45%">
+  <img src="https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/blob/main/Multimedia/ECG/P0_Basal_D1_tiempo_mV.png" width="45%">
+  <img src="https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/blob/main/Multimedia/ECG/P0_Basal_D1_fft_db.png" width="45%">
 </p>
 
 ### 4.1.2 Derivación 2
