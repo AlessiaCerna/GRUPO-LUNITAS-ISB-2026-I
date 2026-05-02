@@ -34,5 +34,55 @@ El electrocardiograma (ECG) es una prueba no invasiva y de rápida ejecución qu
 ### 3.2.1 
 # 4. Procesamiento y visualización de señales EMG en Python
 
-## 4.1. Experimento 1:
+## 4.1. Basal:
+### 4.1.1 Derivación 1
+
+<p align="center"> <img src="https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/blob/main/Multimedia/ECG/P0_Basal_D1_fft_db.png" width="800" height="400"> </p>
+
+### 4.1.2 Derivación 2
+
+### 4.1.3 Derivación 3
+
+## 4.2. P1:
+### 4.2.1 Derivación 1
+
+### 4.2.2 Derivación 2
+
+### 4.2.3 Derivación 3
+
+## 4.3. P2:
+### 4.3.1 Derivación 1
+
+### 4.3.2 Derivación 2
+
+### 4.3.3 Derivación 3
+
+## 4.4. P3:
+### 4.4.1 Derivación 1
+
+### 4.4.2 Derivación 2
+
+### 4.4.3 Derivación 3
+
+## 4.5. P4:
+### 4.5.1 Derivación 1
+
+### 4.5.2 Derivación 2
+
+### 4.5.3 Derivación 3
+
+## 4.6. P5:
+### 4.6.1 Derivación 1
+
+### 4.6.2 Derivación 2
+
+### 4.6.3 Derivación 3
+
+## 4.7. P6: 
+### 4.7.1 Derivación 1
+
+### 4.7.2 Derivación 2
+
+### 4.7.3 Derivación 3
+
 
