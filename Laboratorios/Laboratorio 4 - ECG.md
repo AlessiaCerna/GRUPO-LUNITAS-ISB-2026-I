@@ -61,7 +61,7 @@ Se registró la señal de ECG del participante en estado de reposo con el propó
   <img src="https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/blob/main/Multimedia/ECG/P0_Basal_D3_fft_db.png" width="45%">
 </p>
 
-## 4.2. P1:
+## 4.2. Hiperventilación 1
 ### 4.2.1 Derivación 1
 
 <p align="center">
@@ -83,7 +83,7 @@ Se registró la señal de ECG del participante en estado de reposo con el propó
   <img src="https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/blob/main/Multimedia/ECG/P1_D3_fft_db.png" width="45%">
 </p>
 
-## 4.3. P2:
+## 4.3. Hiperventilación 2
 ### 4.3.1 Derivación 1
 
 <p align="center">
@@ -105,7 +105,7 @@ Se registró la señal de ECG del participante en estado de reposo con el propó
   <img src="https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/blob/main/Multimedia/ECG/P2_D3_fft_db.png" width="45%">
 </p>
 
-## 4.4. P3:
+## 4.4. Basal 2 (post hiperventilación)
 ### 4.4.1 Derivación 1
 
 <p align="center">
@@ -127,7 +127,7 @@ Se registró la señal de ECG del participante en estado de reposo con el propó
   <img src="https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/blob/main/Multimedia/ECG/P3_Basal_D3_fft_db.png" width="45%">
 </p>
 
-## 4.5. P4:
+## 4.5. Post ejercicio (subir y bajar escaleras)
 ### 4.5.1 Derivación 1
 
 <p align="center">
@@ -148,7 +148,7 @@ Se registró la señal de ECG del participante en estado de reposo con el propó
   <img src="https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/blob/main/Multimedia/ECG/P4_D3_fft_db.png" width="45%">
 </p>
 
-## 4.6. P5:
+## 4.6. Hipoventilación 1
 ### 4.6.1 Derivación 1
 
 <p align="center">
@@ -170,7 +170,7 @@ Se registró la señal de ECG del participante en estado de reposo con el propó
   <img src="https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/blob/main/Multimedia/ECG/P5_D3_fft_db.png" width="45%">
 </p>
 
-## 4.7. P6: 
+## 4.7. Hipoventilación 2
 ### 4.7.1 Derivación 1
 
 <p align="center">
