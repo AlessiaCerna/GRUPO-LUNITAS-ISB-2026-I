@@ -188,3 +188,7 @@ El electrocardiograma (ECG) es una prueba no invasiva y de rápida ejecución qu
   <img src="https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/blob/main/Multimedia/ECG/P6_D3_fft_db.png" width="45%">
 </p>
 
+# 5. Discusión
+
+# 6. Bibliografía 
+
