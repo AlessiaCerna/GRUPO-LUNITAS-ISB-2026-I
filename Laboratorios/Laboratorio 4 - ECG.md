@@ -29,6 +29,7 @@ El electrocardiograma (ECG) es una prueba no invasiva y de rápida ejecución qu
 ### 3.2.1 Conexión de los electrodos
 En este experimento, para la adquisición de la señal electrocardiográfica (ECG), se utilizó la configuración clásica de Einthoven para la colocación de los electrodos en la primera derivación. El electrodo rojo se ubicó en la muñeca izquierda, el electrodo negro en la muñeca derecha y el electrodo blanco (referencia) se colocó sobre la espina ilíaca antero-superior. Esta disposición permite registrar de forma adecuada la actividad eléctrica del corazón al establecer un vector de diferencia de potencial entre ambos brazos, mientras que el electrodo de referencia cumple la función de estabilizar la señal y atenuar el ruido generado por interferencias externas o movimientos del participante. De esta manera, fue posible obtener un registro más claro y confiable, adecuado para el análisis posterior.
 ### 3.2.2 Basal 1:
+Se registró la señal de ECG del participante en estado de reposo con el propósito de obtener una línea base estable y representativa de la actividad cardíaca sin influencia de esfuerzo físico. Esta referencia inicial es esencial, ya que permite comparar posteriormente los cambios en la señal y evaluar con mayor precisión las variaciones generadas bajo distintas condiciones fisiológicas.
 ### 3.2.3 Prueba 1:
 ### 3.2.4 Prueba 2:
 ### 3.2.5 Prueba 3:
