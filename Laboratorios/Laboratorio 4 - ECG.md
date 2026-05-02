@@ -19,6 +19,10 @@ El electrocardiograma (ECG) es una prueba no invasiva y de rápida ejecución qu
 - Procesar y analizar las señales ECG utilizando Python y la plataforma OpenSignals (r)evolution.
 # 3. Metodología
 
+# 4. Procesamiento y visualización de señales EMG en Python
+
+## 4.1. Experimento 1:
+
 ## 3.1 Materiales y equipos
 | Modelo       | Descripción   | Cantidad |
 |:------------:|:-------------:|:--------:|
