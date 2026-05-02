@@ -27,11 +27,12 @@ El electrocardiograma (ECG) es una prueba no invasiva y de rápida ejecución qu
 
 ## 3.2 Procedimiento
 ### 3.2.1 
-### 3.2.1 
-### 3.2.1 
-### 3.2.1 
-### 3.2.1 
-### 3.2.1 
+### 3.2.2 
+### 3.2.3 
+### 3.2.4 
+### 3.2.5 
+### 3.2.6 
+### 3.2.7
 # 4. Procesamiento y visualización de señales EMG en Python
 
 ## 4.1. Basal:
