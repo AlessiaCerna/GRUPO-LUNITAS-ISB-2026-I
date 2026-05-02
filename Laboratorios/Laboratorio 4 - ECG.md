@@ -191,4 +191,5 @@ El electrocardiograma (ECG) es una prueba no invasiva y de rápida ejecución qu
 # 5. Discusión
 
 # 6. Bibliografía 
+[1] “A survey on ECG analysis”, Biomedical Signal Processing and Control, vol. 43, pp. 216–235, may 2018, doi: 10.1016/j.bspc.2018.03.003.
 
