@@ -31,12 +31,18 @@ En este experimento, para la adquisición de la señal electrocardiográfica (EC
 Estas disposiciones permitieron registrar la actividad eléctrica del corazón desde diferentes vectores de diferencia de potencial, mientras que el electrodo de referencia contribuyó a estabilizar la señal y atenuar el ruido generado por interferencias externas o movimientos del participante. De esta manera, fue posible obtener registros más claros y confiables, adecuados para el análisis posterior.
 ### 3.2.2 Basal 1:
 Se registró la señal de ECG del participante en estado de reposo con el propósito de obtener una línea base estable y representativa de la actividad cardíaca sin influencia de esfuerzo físico. Esta referencia inicial es esencial, ya que permite comparar posteriormente los cambios en la señal y evaluar con mayor precisión las variaciones generadas bajo distintas condiciones fisiológicas.
-### 3.2.3 Prueba 1:
-### 3.2.4 Prueba 2:
-### 3.2.5 Prueba 3:
-### 3.2.6 Prueba 4:
-### 3.2.7 Prueba 5:
-### 3.2.8 Basal 2:
+### 3.2.3 Prueba 1: Hiperventilación
+Se registró la señal de ECG durante una fase de hiperventilación controlada, en la cual el participante realizó 3 ciclos de inspiración profunda, mantener la respiración y espiración. El objetivo de esta etapa fue inducir cambios en la oxigenación y en la regulación del sistema nervioso autónomo, permitiendo evaluar su efecto sobre la actividad eléctrica cardíaca.
+### 3.2.4 Prueba 2: Hiperventilación
+Nuevamente, se registró la señal de ECG durante una fase de hiperventilación controlada como en la prueba 2, con el fin de observar la reproducibilidad de la respuesta electrocardiovascular y comparar posibles variaciones entre ambos intentos.
+### 3.2.5 Basal 2
+Se registró nuevamente la señal de ECG en estado de reposo tras la fase de hiperventilación, con el propósito de evaluar la recuperación del sistema cardiovascular y establecer una nueva línea base luego del estímulo respiratorio previo.
+### 3.2.6 Prueba 4: Post ejercicio
+Se registró la señal de ECG inmediatamente después de que el participante realizara actividad física consistente en subir y bajar escaleras durante 8 minutos. Esta medición tuvo como objetivo analizar la respuesta cardiovascular ante el esfuerzo, incluyendo variaciones en la frecuencia cardíaca y posibles cambios en la morfología de la señal.
+### 3.2.7 Prueba 5: Hipoventilación
+Se registró la señal de ECG mientras el participante mantenía la respiración el mayor tiempo posible. Esta fase permitió evaluar la respuesta del sistema cardiovascular ante condiciones de apnea voluntaria y su efecto sobre la actividad eléctrica cardíaca.
+### 3.2.8 Prueba 6: Hipoventilación
+Se realizó un segundo registro de la señal de ECG bajo las mismas condiciones de apnea voluntaria, con el fin de observar la reproducibilidad de la respuesta cardiovascular y comparar posibles variaciones entre ambos intentos.
 # 4. Procesamiento y visualización de señales ECG en Python
 
 ## 4.1. Basal:
