@@ -26,13 +26,15 @@ El electrocardiograma (ECG) es una prueba no invasiva y de rápida ejecución qu
 | -            | Laptop o PC   |    1     |
 
 ## 3.2 Procedimiento
-### 3.2.1 
-### 3.2.2 
-### 3.2.3 
-### 3.2.4 
-### 3.2.5 
-### 3.2.6 
-### 3.2.7
+### 3.2.1 Conexión de los electrodos
+En este experimento, para la adquisición de la señal electrocardiográfica (ECG), se utilizó la configuración clásica de Einthoven para la colocación de los electrodos en la primera derivación. El electrodo rojo se ubicó en la muñeca izquierda, el electrodo negro en la muñeca derecha y el electrodo blanco (referencia) se colocó sobre la espina ilíaca antero-superior. Esta disposición permite registrar de forma adecuada la actividad eléctrica del corazón al establecer un vector de diferencia de potencial entre ambos brazos, mientras que el electrodo de referencia cumple la función de estabilizar la señal y atenuar el ruido generado por interferencias externas o movimientos del participante. De esta manera, fue posible obtener un registro más claro y confiable, adecuado para el análisis posterior.
+### 3.2.2 Basal 1:
+### 3.2.3 Prueba 1:
+### 3.2.4 Prueba 2:
+### 3.2.5 Prueba 3:
+### 3.2.6 Prueba 4:
+### 3.2.7 Prueba 5:
+### 3.2.8 Basal 2:
 # 4. Procesamiento y visualización de señales ECG en Python
 
 ## 4.1. Basal:
