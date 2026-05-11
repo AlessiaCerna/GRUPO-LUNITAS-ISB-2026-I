@@ -70,10 +70,15 @@ Su aplicación principal se orienta hacia señales ECG con niveles de ruido no u
 ## 3. Referencias
 
 [1] “Adaptive Filtering Strategies for ECG Signal Enhancement: A Comparative study,” IEEE Conference Publication | IEEE Xplore, Apr. 24, 2024. https://ieeexplore.ieee.org/abstract/document/10541144
+
 [2] J. Vega-Pineda, J. L. Durán-Gómez, y D. R. López-Flores, "Evaluación de filtros digitales IIR adaptivos para seguimiento de frecuencia y armónicas asociadas," Revista Electro, vol. 44, pp. 162–168, oct. 2022. [En línea]. Disponible en: https://itchihuahua.mx/revista_electro/2022/SUB-5048.pdf
+
 [3] A. López Del Peso, "DISEÑO E IMPLEMENTACIÓN DEL FILTRADO DE SEÑALES EMG MEDIANTE HERRAMIENTAS DE SÍNTESIS DE ALTO NIVEL BASADAS EN FPGA," Tesis de maestría, 2024. [Online]. Available: https://hdl.handle.net/10115/31583
+
 [4] M. Mora González, F. J. Casillas Rodríguez, J. Muñoz Maciel, J. C. Martínez Romo, F. J. Luna Rosas, C. A. de Luna Ortega, G. Gómez Rosas, y F. G. Peña Lecona, "Reducción de ruido digital en señales ECG utilizando filtraje por convolución," Investigación y Ciencia, vol. 16, núm. 40, pp. 26–32, ene.–abr. 2008. [En línea]. Disponible en: https://www.redalyc.org/pdf/674/67404005.pdf
+
 [5] J.-H. Sul, L. Piyathilaka, D. Moratuwage, S. Dunu Arachchige, A. Jayawardena, G. Kahandawa, y D. M. G. Preethichandra, "Electromyography Signal Acquisition, Filtering, and Data Analysis for Exoskeleton Development," Sensors, vol. 25, núm. 13, art. 4004, jun. 2025, doi: 10.3390/s25134004.
+
 [6] M. J. Hambly, A. C. C. De Sousa, and C. Pizzolato, “Comparison of filtering methods for real-time extraction of the volitional EMG component in electrically stimulated muscles,” Biomedical Signal Processing and Control, vol. 87, p. 105471, Sep. 2023, doi: 10.1016/j.bspc.2023.105471.
 
 
