@@ -9,11 +9,17 @@
 6. [Bibliografía](#6-bibliografía)
 
 # 1. Introducción 
-El electroencefalograma (EEG) es una técnica neurofisiológica no invasiva que permite registrar la actividad eléctrica de las neuronas corticales mediante electrodos ubicados en el cuero cabelludo. Esta actividad se manifiesta en forma de ondas cerebrales, caracterizadas por su frecuencia y amplitud, parámetros que reflejan los distintos estados funcionales del cerebro [1].
+El electroencefalograma (EEG) es una técnica neurofisiológica no invasiva que permite registrar la actividad eléctrica cerebral mediante electrodos colocados sobre el cuero cabelludo [1]. Estas señales son generadas principalmente por la actividad sincronizada de las neuronas corticales y se representan en forma de ondas cerebrales con diferentes frecuencias y amplitudes, las cuales reflejan distintos estados funcionales del cerebro [1].
 
-Las principales bandas de frecuencia del EEG son: delta (δ), theta (θ), alfa (α) y beta (β), cada una asociada a condiciones específicas como el sueño profundo, la relajación, el reposo vigilante o la actividad cognitiva intensa. Aunque el EEG no permite evaluar directamente la actividad de estructuras profundas como el tronco encefálico o el cerebelo, constituye una herramienta esencial para el estudio de la dinámica cortical, tanto en condiciones de reposo como durante la ejecución de tareas [1].
+Las señales EEG se clasifican en diferentes bandas de frecuencia: delta (δ), theta (θ), alfa (α) y beta (β). Cada una de ellas se relaciona con distintos estados fisiológicos y cognitivos. Por ejemplo, las ondas alfa predominan durante estados de relajación con ojos cerrados, mientras que las ondas beta suelen aumentar durante tareas que requieren atención o concentración [2]. Gracias a ello, el EEG es ampliamente utilizado para estudiar procesos relacionados con memoria, emociones, atención y carga cognitiva.
 
-Además de su valor en la investigación neurocientífica, el EEG tiene una amplia aplicación clínica, ya que permite detectar alteraciones en la actividad cerebral que pueden contribuir al diagnóstico de epilepsia, trastornos convulsivos, encefalopatías y otras disfunciones neurológicas [2].
+Actualmente, el EEG posee múltiples aplicaciones tanto en investigación como en el ámbito clínico. En medicina, se utiliza para apoyar el diagnóstico de epilepsia, trastornos del sueño, encefalopatías y enfermedades neurodegenerativas [3]. Asimismo, en los últimos años ha cobrado gran importancia en el desarrollo de interfaces cerebro-computadora (BCI), sistemas que permiten controlar dispositivos externos mediante señales cerebrales [4].
+
+### Ventajas y desventajas del EEG
+
+Entre las principales ventajas del EEG destaca su alta resolución temporal, ya que permite registrar cambios cerebrales en escalas de milisegundos [5]. Además, es una técnica relativamente económica, portátil y segura, debido a que no requiere procedimientos invasivos ni utiliza radiación. Estas características facilitan su aplicación tanto en hospitales como en laboratorios de investigación.
+
+Sin embargo, el EEG también presenta limitaciones importantes. Una de las principales es su baja resolución espacial, ya que las señales eléctricas pueden distorsionarse al atravesar tejidos como el cráneo y el cuero cabelludo [5]. Asimismo, las señales EEG son sensibles a artefactos generados por parpadeos, movimientos musculares o interferencias eléctricas externas, lo que puede afectar la calidad del registro y dificultar su interpretación [5].
 
 # 2. Objetivos
 - Montar y configurar un BITalino (r)evolution Board Kit BLE/BT para registrar señales EEG.
