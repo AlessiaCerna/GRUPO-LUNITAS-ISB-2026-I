@@ -79,7 +79,17 @@ Se realizaron preguntas de mayor dificultad durante 30 segundos, buscando genera
 
 
 ## 5. Discusión
+- **¿Qué banda de frecuencia predomina al cerrar los ojos?**  
+  Al cerrar los ojos se observó un mayor predominio de la banda alfa, ya que el participante se encontraba en un estado más relajado y con menor estimulación visual.
 
+- **¿Qué filtro es imprescindible para EEG y por qué?**  
+  El filtro más importante es el notch de 60 Hz, porque ayuda a eliminar el ruido producido por la corriente eléctrica del ambiente. Sin este filtro, la señal EEG puede verse alterada y dificultar el análisis.
+
+- **¿Puedes modular conscientemente tu señal EEG? Da un ejemplo.**  
+  Sí. Por ejemplo, durante las pruebas se notó que al relajarse y cerrar los ojos la señal cambiaba respecto a cuando el participante resolvía preguntas o realizaba tareas que requerían más concentración.
+
+- **¿Se observan diferencias entre Fp1 y Fp2? ¿Por qué podrían ocurrir?**  
+  Sí, aunque las diferencias no fueron muy marcadas. Estas variaciones pueden deberse a movimientos musculares, parpadeos, diferencias en la colocación de los electrodos o a la actividad propia de cada hemisferio cerebral.
 ## 6. Bibliografía
 
 
