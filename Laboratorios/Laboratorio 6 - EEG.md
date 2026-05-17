@@ -1,4 +1,4 @@
-# LABORATORIO 4: USO DE BITalino PARA ECG
+# LABORATORIO 6: USO DE BITalino PARA EEG
 
 ## Tabla de contenidos
 1. [Introducción](#1-introducción)
