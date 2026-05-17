@@ -17,9 +17,9 @@ Actualmente, el EEG posee múltiples aplicaciones tanto en investigación como e
 
 ### Ventajas y desventajas del EEG
 
-Entre las principales ventajas del EEG destaca su alta resolución temporal, ya que permite registrar cambios cerebrales en escalas de milisegundos [5]. Además, es una técnica relativamente económica, portátil y segura, debido a que no requiere procedimientos invasivos ni utiliza radiación. Estas características facilitan su aplicación tanto en hospitales como en laboratorios de investigación.
+Entre las principales ventajas del EEG destaca su alta resolución temporal, ya que permite registrar cambios cerebrales en escalas de milisegundos. Además, es una técnica relativamente económica, portátil y segura, debido a que no requiere procedimientos invasivos ni utiliza radiación. Estas características facilitan su aplicación tanto en hospitales como en laboratorios de investigación [5].
 
-Sin embargo, el EEG también presenta limitaciones importantes. Una de las principales es su baja resolución espacial, ya que las señales eléctricas pueden distorsionarse al atravesar tejidos como el cráneo y el cuero cabelludo [5]. Asimismo, las señales EEG son sensibles a artefactos generados por parpadeos, movimientos musculares o interferencias eléctricas externas, lo que puede afectar la calidad del registro y dificultar su interpretación [5].
+Sin embargo, el EEG también presenta limitaciones importantes. Una de las principales es su baja resolución espacial, ya que las señales eléctricas pueden distorsionarse al atravesar tejidos como el cráneo y el cuero cabelludo. Asimismo, las señales EEG son sensibles a artefactos generados por parpadeos, movimientos musculares o interferencias eléctricas externas, lo que puede afectar la calidad del registro y dificultar su interpretación [5].
 
 # 2. Objetivos
 - Montar y configurar un BITalino (r)evolution Board Kit BLE/BT para registrar señales EEG.
@@ -99,15 +99,15 @@ Se realizaron preguntas de mayor dificultad durante 30 segundos, buscando genera
 ## 6. Bibliografía
 
 
-[1] 
+[1] S. Yun, “Advances, challenges, and prospects of electroencephalography-based biomarkers for psychiatric disorders: a narrative review”, J Yeungnam Med Sci, vol. 41, núm. 4, pp. 261–268, sep. 2024, doi: 10.12701/jyms.2024.00668.
 
-[2]
+[2] C.-S. Chen, S.-H. Chang, C.-W. Liu, y T.-M. Pan, “Exploring the Potential of Electroencephalography Signal-Based Image Generation Using Diffusion Models: Integrative Framework Combining Mixed Methods and Multimodal Analysis”, JMIR Med Inform, vol. 13, p. e72027, jun. 2025, doi: 10.2196/72027.
 
-[3]
+[3] X.-Y. Liu et al., “Recent applications of EEG-based brain-computer-interface in the medical field”, Mil Med Res, vol. 12, núm. 1, p. 14, mar. 2025, doi: 10.1186/s40779-025-00598-z.
 
-[4]
+[4] M. S. Khlief y A. K. Idrees, “A comprehensive review of electroencephalography data analytics”, International Journal of Computer Applications in Technology, vol. 71, núm. 1, pp. 78–88, ene. 2023, doi: 10.1504/IJCAT.2023.131066.
 
-[5]
+[5] S. Sadiya, T. Alhanai, y M. M. Ghassemi, “Artifact Detection and Correction in EEG data: A Review”, en 2021 10th International IEEE/EMBS Conference on Neural Engineering (NER), may 2021, pp. 495–498. doi: 10.1109/NER49283.2021.9441341.
 
 [6]
 
