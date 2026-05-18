@@ -71,18 +71,32 @@ La participante realizó parpadeos continuos y movimientos de masticación duran
 ### 3.2.6 Prueba 5 - Ritmo basal
 Se efectuó un registro basal adicional de 30 segundos posterior a la generación de artefactos, permitiendo observar la recuperación de la señal.
 
-### 3.2.7 Prueba 6 - Actividad cognitiva básica
-Se realizaron preguntas sencillas durante 30 segundos con el objetivo de inducir una carga cognitiva leve y evaluar posibles cambios en la actividad cerebral.
+### 3.2.7 Prueba 6 - Música relajante
+La participante escuchó música durante 30 segundos con el objetivo de inducir a un estado de relajación y evaluar posibles cambios en la actividad cerebral.
 
-### 3.2.8 Prueba 7 - Actividad cognitiva compleja
-Se realizaron preguntas de mayor dificultad durante 30 segundos, buscando generar una mayor carga cognitiva y comparar las variaciones de la señal EEG respecto a la prueba anterior.
-
-
-
+### 3.2.8 Prueba 7 - Música estresante
+La participante esuchó música ruidosa y estresante durante 30 segundos, buscando generar un estado de incomodidad y comparar las variaciones de la señal EEG respecto a la prueba anterior.
 
 ## 4. Procesamiento y visualización de señales ECG en Python
 
+### 4.1. Señal 1 - Ritmo basal 1
 
+
+### 4.2 Señal 2 - Apertura de ojos y fijación visual
+
+
+### 4.3. Señal 3 - Ritmo basal 2
+
+
+### 4.4. Señal 4 - Parpadeo constante y masticación
+
+### 4.5. Señal 5 - Ritmo basal 3
+
+
+### 4.6. Señal 6 - Música relajante
+
+
+### 4.7. Señal 7 - Música estresante
 
 ## 5. Discusión
 - **¿Qué banda de frecuencia predomina al cerrar los ojos?**  
