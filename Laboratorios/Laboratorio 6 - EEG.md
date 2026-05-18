@@ -55,7 +55,7 @@ El montaje se realizó de la siguiente manera:
 ### 3.2.2 Prueba 1 - Ritmo basal
 La participante permaneció con los ojos cerrados, evitando movimientos faciales y corporales durante 1 minuto. Esta prueba permitió obtener una señal EEG en estado de reposo basal.
 <p align="center">
-<img width="548" height="447" alt="image" src="https://github.com/user-attachments/assets/8d98edae-db12-4540-99a7-29fc7024cb7a" />
+<img src="https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/blob/main/Multimedia/EEG/Captura%20de%20pantalla%202026-05-17%20224223.png" width="548" />
 
 ### 3.2.3 Prueba 2 - Apertura de ojos y fijación visual
 La participante abrió los ojos y mantuvo la mirada fija en un punto durante 1 minuto, con el objetivo de evaluar cambios asociados a la estimulación visual.
