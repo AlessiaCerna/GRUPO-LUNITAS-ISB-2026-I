@@ -83,13 +83,13 @@ Se efectuó un registro basal adicional de 30 segundos posterior a la generació
 ### 3.2.7 Prueba 6 - Música relajante
 La participante escuchó música durante 30 segundos con el objetivo de inducir a un estado de relajación y evaluar posibles cambios en la actividad cerebral.
 <p align="center">
-<img width="600" height="800" alt="image" src="https://github.com/user-attachments/assets/00802f22-9e19-40dd-a4ec-6e78abfbcd21" />
+<img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/00802f22-9e19-40dd-a4ec-6e78abfbcd21" />
 
 
 ### 3.2.8 Prueba 7 - Música estresante
 La participante esuchó música ruidosa y estresante durante 30 segundos, buscando generar un estado de incomodidad y comparar las variaciones de la señal EEG respecto a la prueba anterior.
 <p align="center">
-<img width="600" height="800" alt="image" src="https://github.com/user-attachments/assets/da681182-2cb7-4ab9-8488-d22683831f73" />
+<img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/da681182-2cb7-4ab9-8488-d22683831f73" />
 
 
 ## 4. Procesamiento y visualización de señales ECG en Python
