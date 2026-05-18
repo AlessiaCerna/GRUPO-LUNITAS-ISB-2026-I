@@ -71,7 +71,7 @@ Se realizó nuevamente un registro basal de 30 segundos para comparar la estabil
 ### 3.2.5 Prueba 4 - Parpadeo constante y masticación
 La participante realizó parpadeos continuos y movimientos de masticación durante 1 minuto, induciendo artefactos musculares y oculares en la señal EEG.
 <p align="center">
-![Parpadeo constante](./Multimedia/EEG/WhatsApp%20Video%202026-05-17%20at%2011.05.02%20PM%20%281%29.gif)
+<img src="Multimedia/EEG/WhatsApp Video 2026-05-17 at 11.05.02 PM (1).gif" width="500">
 
 
 ### 3.2.6 Prueba 5 - Ritmo basal
