@@ -54,10 +54,8 @@ El montaje se realizó de la siguiente manera:
 La participante permaneció con los ojos cerrados, evitando movimientos faciales y corporales durante 1 minuto. Esta prueba permitió obtener una señal EEG en estado de reposo basal.
 
 
-
 ### 3.2.3 Prueba 2 - Apertura de ojos y fijación visual
 La participante abrió los ojos y mantuvo la mirada fija en un punto durante 1 minuto, con el objetivo de evaluar cambios asociados a la estimulación visual.
-
 
 
 ### 3.2.4 Prueba 3 - Ritmo basal
@@ -79,24 +77,85 @@ La participante esuchó música ruidosa y estresante durante 30 segundos, buscan
 
 ## 4. Procesamiento y visualización de señales ECG en Python
 
-### 4.1. Señal 1 - Ritmo basal 1
+Las señales pasaron por filtrado pasabanda 0.8–48 Hz, posterior
 
+### 4.1. Señal 1 - Ritmo basal 1
+<p align="center">
+  <img src="https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/blob/main/Multimedia/se%C3%B1al%201.png" width="1000" height="400"/>
+</p>
+
+En el Ritmo Basal 1, la señal oscila predominantemente entre ±5 y ±15 µV, con picos que alcanzan los ±30 µV a lo largo de los 63 segundos de registro.
+
+<p align="center">
+  <img src="https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/blob/main/Multimedia/fft%20se%C3%B1al%201.png" width="1000" height="400"/>
+</p>
 
 ### 4.2 Señal 2 - Apertura de ojos y fijación visual
+<p align="center">
+  <img src="https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/blob/main/Multimedia/se%C3%B1al%202.png" width="1000" height="400"/>
+</p>
 
+La condición de Apertura de Ojos presenta amplitudes similares (±5–20 µV), aunque se identifica una deflexión negativa pronunciada alrededor del segundo 12, que desciende hasta −40 µV, posiblemente asociada a un movimiento ocular involuntario. 
+
+<p align="center">
+  <img src="https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/blob/main/Multimedia/fft%20se%C3%B1al%202.png" width="1000" height="400"/>
+</p>
 
 ### 4.3. Señal 3 - Ritmo basal 2
 
+<p align="center">
+  <img src="https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/blob/main/Multimedia/se%C3%B1al%203.png" width="1000" height="400"/>
+</p>
+
+El Ritmo Basal 2 exhibe excursiones de hasta ±25–30 µV con un transitorio abrupto notable en torno al segundo 15.
+
+<p align="center">
+  <img src="https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/blob/main/Multimedia/fft%20se%C3%B1al%203.png" width="1000" height="400"/>
+</p>
 
 ### 4.4. Señal 4 - Parpadeo constante y masticación
 
+<p align="center">
+  <img src="https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/blob/main/Multimedia/se%C3%B1al%204.png" width="1000" height="400"/>
+</p>
+
+La condición de Artefactos es la más irregular del conjunto: la señal mantiene amplitudes sostenidas de ±10–40 µV con una variabilidad morfológica notablemente mayor que en las condiciones de reposo, y eventos de alta amplitud distribuidos de manera continua a lo largo de los 63 segundos.
+
+<p align="center">
+  <img src="https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/blob/main/Multimedia/fft%20se%C3%B1al%204.png" width="1000" height="400"/>
+</p>
+
 ### 4.5. Señal 5 - Ritmo basal 3
 
+<p align="center">
+  <img src="https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/blob/main/Multimedia/se%C3%B1al%205.png" width="1000" height="400"/>
+</p>
+
+El Ritmo Basal 3 presenta amplitudes de ±5–20 µV.
+
+<p align="center">
+  <img src="https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/blob/main/Multimedia/fft%20se%C3%B1al%205.png" width="1000" height="400"/>
+</p>
 
 ### 4.6. Señal 6 - Música relajante
 
+<p align="center">
+  <img src="https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/blob/main/Multimedia/se%C3%B1al%206.png" width="1000" height="400"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/blob/main/Multimedia/fft%20se%C3%B1al%206.png" width="1000" height="400"/>
+</p>
 
 ### 4.7. Señal 7 - Música estresante
+
+<p align="center">
+  <img src="https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/blob/main/Multimedia/se%C3%B1al%207.png" width="1000" height="400"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/blob/main/Multimedia/fft%20se%C3%B1al%207.png" width="1000" height="400"/>
+</p>
 
 ## 5. Discusión
 - **¿Qué banda de frecuencia predomina al cerrar los ojos?**  
