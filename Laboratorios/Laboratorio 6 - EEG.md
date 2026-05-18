@@ -60,8 +60,7 @@ La participante permaneció con los ojos cerrados, evitando movimientos faciales
 ### 3.2.3 Prueba 2 - Apertura de ojos y fijación visual
 La participante abrió los ojos y mantuvo la mirada fija en un punto durante 1 minuto, con el objetivo de evaluar cambios asociados a la estimulación visual.
 <p align="center">
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/961d5055-818c-486e-a501-c4dd352b2169" />
-
+<img width="546" height="516" alt="image" src="https://github.com/user-attachments/assets/00a81488-f68e-449a-971f-77b3807899d1" />
 
 ### 3.2.4 Prueba 3 - Ritmo basal
 Se realizó nuevamente un registro basal de 30 segundos para comparar la estabilidad de la señal EEG respecto a la primera prueba.
