@@ -48,7 +48,9 @@ El montaje se realizó de la siguiente manera:
 - **Electrodo activo:** ubicado en la región Fp1, correspondiente al lóbulo frontal izquierdo.
 - **Electrodo de referencia:** colocado en la apófisis mastoide derecha.
 - **Electrodo de tierra (GND):** ubicado en Fp2, región frontal derecha.
-
+<p align="center">
+  <img src="https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/blob/main/Multimedia/EEG/1.jfif" width="400"/>
+</p>
 
 ### 3.2.2 Prueba 1 - Ritmo basal
 La participante permaneció con los ojos cerrados, evitando movimientos faciales y corporales durante 1 minuto. Esta prueba permitió obtener una señal EEG en estado de reposo basal.
