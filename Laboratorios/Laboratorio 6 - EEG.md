@@ -70,21 +70,26 @@ Se realizó nuevamente un registro basal de 30 segundos para comparar la estabil
 
 ### 3.2.5 Prueba 4 - Parpadeo constante y masticación
 La participante realizó parpadeos continuos y movimientos de masticación durante 1 minuto, induciendo artefactos musculares y oculares en la señal EEG.
+<p align="center">
+[Ver video](./multimedia/WhatsApp%20Video%202026-05-17%20at%206.51.27%20PM.mp4)
 
 
 ### 3.2.6 Prueba 5 - Ritmo basal
 Se efectuó un registro basal adicional de 30 segundos posterior a la generación de artefactos, permitiendo observar la recuperación de la señal.
+<p align="center">
+<img width="448" height="377" alt="image" src="https://github.com/user-attachments/assets/55731267-5c47-4392-9ab4-c284d0202205" />
+
 
 ### 3.2.7 Prueba 6 - Música relajante
 La participante escuchó música durante 30 segundos con el objetivo de inducir a un estado de relajación y evaluar posibles cambios en la actividad cerebral.
 <p align="center">
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/00802f22-9e19-40dd-a4ec-6e78abfbcd21" />
+<img width="600" height="800" alt="image" src="https://github.com/user-attachments/assets/00802f22-9e19-40dd-a4ec-6e78abfbcd21" />
 
 
 ### 3.2.8 Prueba 7 - Música estresante
 La participante esuchó música ruidosa y estresante durante 30 segundos, buscando generar un estado de incomodidad y comparar las variaciones de la señal EEG respecto a la prueba anterior.
 <p align="center">
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/da681182-2cb7-4ab9-8488-d22683831f73" />
+<img width="600" height="800" alt="image" src="https://github.com/user-attachments/assets/da681182-2cb7-4ab9-8488-d22683831f73" />
 
 
 ## 4. Procesamiento y visualización de señales ECG en Python
