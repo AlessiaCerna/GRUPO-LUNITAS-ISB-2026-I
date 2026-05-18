@@ -195,7 +195,4 @@ En términos generales, el experimento cumplió su objetivo formativo al exponer
 
 [5] S. Sadiya, T. Alhanai, y M. M. Ghassemi, “Artifact Detection and Correction in EEG data: A Review”, en 2021 10th International IEEE/EMBS Conference on Neural Engineering (NER), may 2021, pp. 495–498. doi: 10.1109/NER49283.2021.9441341.
 
-[6]
-
-[7]
 
