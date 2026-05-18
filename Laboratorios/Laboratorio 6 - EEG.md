@@ -158,17 +158,30 @@ El Ritmo Basal 3 presenta amplitudes de ±5–20 µV.
 </p>
 
 ## 5. Discusión
-- **¿Qué banda de frecuencia predomina al cerrar los ojos?**  
-  Al cerrar los ojos se observó un mayor predominio de la banda alfa, ya que el participante se encontraba en un estado más relajado y con menor estimulación visual.
 
-- **¿Qué filtro es imprescindible para EEG y por qué?**  
-  El filtro más importante es el notch de 60 Hz, porque ayuda a eliminar el ruido producido por la corriente eléctrica del ambiente. Sin este filtro, la señal EEG puede verse alterada y dificultar el análisis.
+Los resultados obtenidos en este laboratorio muestran que el procesamiento de señales EEG con dispositivos portátiles como el BITalino es una tarea que depende fuertemente de las condiciones de registro y de la ubicación de los electrodos. A lo largo de las distintas fases del experimento, se pudo observar cómo el estado del participante y sus movimientos afectan directamente la calidad de la señal.
+Los tres registros de reposo (Ritmo Basal 1, 2 y 3) resultaron ser los más consistentes y reproducibles de toda la sesión. En todos ellos, la señal se mantuvo estable con amplitudes entre ±5 y ±15 µV, y el espectro mostró un claro predominio de la banda Delta, con niveles de energía que decaen progresivamente hacia las frecuencias más altas. Este patrón, conocido como decaimiento tipo 1/f, es característico del cerebro en reposo y confirma que el participante logró volver a un estado de calma tras cada condición de estimulación, lo que otorga validez a las comparaciones entre fases.
 
-- **¿Puedes modular conscientemente tu señal EEG? Da un ejemplo.**  
-  Sí. Por ejemplo, durante las pruebas se notó que al relajarse y cerrar los ojos la señal cambiaba respecto a cuando el participante resolvía preguntas o realizaba tareas que requerían más concentración.
+### ¿Qué banda de frecuencia predomina al cerrar los ojos?
+Al cerrar los ojos se esperaba observar un aumento en la banda alfa (8–13 Hz), fenómeno conocido como alpha blocking, ya que el cerebro tiende a sincronizarse en esa frecuencia cuando se reduce la entrada visual. Sin embargo, este efecto no fue claramente visible en los datos. Esto se debe principalmente a que el electrodo no estaba ubicado en la zona occipital (Oz), que es donde el ritmo alfa se expresa con mayor amplitud. Aun así, el perfil espectral de los basales con ojos cerrados mostró una mayor energía en frecuencias bajas respecto a otras condiciones, lo que es coherente con un estado de mayor relajación.
 
-- **¿Se observan diferencias entre Fp1 y Fp2? ¿Por qué podrían ocurrir?**  
-  Sí, aunque las diferencias no fueron muy marcadas. Estas variaciones pueden deberse a movimientos musculares, parpadeos, diferencias en la colocación de los electrodos o a la actividad propia de cada hemisferio cerebral.
+### ¿Qué filtro es imprescindible para EEG y por qué?
+Para el análisis de EEG, el filtro más importante es el pasa banda, que en este caso se configuró entre 0.8 y 45 Hz. Este filtro permite conservar las frecuencias de interés fisiológico (Delta, Theta, Alpha y Beta) mientras elimina el ruido de muy baja frecuencia (movimientos lentos, deriva de la línea base) y el de alta frecuencia (interferencias eléctricas y artefactos musculares de alta banda). En cuanto al filtro notch a 60 Hz, si bien es útil para eliminar el ruido eléctrico de red en contextos con alta frecuencia de muestreo, en este experimento no fue necesario aplicarlo, ya que con una frecuencia de muestreo de 100 Hz la componente de 60 Hz queda fuera del rango representable por la señal (el límite es 50 Hz, la mitad de la frecuencia de muestreo).
+
+### ¿Puedes modular conscientemente tu señal EEG? Da un ejemplo.
+Sí, es posible influir en la señal EEG de forma consciente, aunque en muchos casos los cambios observados no provienen directamente de la actividad cortical sino de la actividad muscular asociada. En este experimento, el ejemplo más claro fue la condición de artefactos: al parpadear voluntariamente y masticar, la señal aumentó notablemente su amplitud en todo el espectro. De forma más sutil, también se espera que cerrar los ojos e intentar relajarse incremente la actividad en la banda alfa, aunque esto depende de la posición del electrodo para poder detectarlo correctamente.
+
+### ¿Se observan diferencias entre Fp1 y Fp2? ¿Por qué podrían ocurrir?
+En este experimento solo se utilizó un canal (A4), por lo que no fue posible comparar directamente Fp1 y Fp2. Sin embargo, en condiciones normales de registro con ambos electrodos, sí suelen observarse diferencias entre hemisferios. Estas pueden deberse a asimetrías en la actividad cortical (por ejemplo, el procesamiento del lenguaje tiende a concentrarse en el hemisferio izquierdo), a diferencias en la colocación o calidad del contacto de los electrodos, o a movimientos faciales asimétricos como parpadeos o contracciones musculares que afectan más a un lado que al otro.
+La condición de artefactos fue la que mostró los cambios más claros y esperados: el parpadeo y la masticación generaron un incremento de energía de 10–15 dB en la banda Delta, extendiéndose también hacia Theta y Alpha. Esto confirma que los músculos de la cara y del cuero cabelludo son una fuente de interferencia difícil de evitar y que pueden enmascarar por completo la actividad cerebral cuando están activos. Por otro lado, las condiciones con música no pudieron analizarse de forma válida, ya que la tensión muscular involuntaria del participante saturó el convertidor del dispositivo, distorsionando el espectro en todas las bandas.
+
+Los registros basales mostraron un comportamiento estable y reproducible a lo largo de la sesión, con un perfil espectral de tipo 1/f dominado por la banda Delta. Esto confirma que el protocolo de reposo fue suficiente para que el participante retornara a un estado de referencia comparable tras cada condición de estimulación.
+La ausencia de alpha blocking durante la apertura de ojos se atribuye a la posición subóptima del electrodo, alejado de la región occipital donde el ritmo alfa se expresa con mayor amplitud. Esto evidencia que la selección del montaje de electrodos es una variable crítica que puede impedir la observación de fenómenos neurofisiológicos bien establecidos.
+La condición de artefactos fue la más exitosa del protocolo: el parpadeo y la masticación generaron un incremento espectral de 10–15 dB en Delta, extendido hacia Theta y Alpha, confirmando que la actividad muscular cefálica contamina todas las bandas relevantes del EEG.
+
+Las condiciones con música no pudieron interpretarse de forma válida, debido a la saturación del ADC causada por la tensión muscular involuntaria del participante. Esto no contradice los efectos reales de la música sobre el EEG, sino que señala la necesidad de condiciones de adquisición más controladas para poder observarlos.
+En términos generales, el experimento cumplió su objetivo formativo al exponer de manera práctica los principales desafíos del registro EEG con dispositivos portátiles: sensibilidad a artefactos musculares y oculares, dependencia del contenido espectral respecto al sitio de registro, y la importancia de mantener la señal dentro del rango dinámico del amplificador.
+
 ## 6. Bibliografía
 
 
