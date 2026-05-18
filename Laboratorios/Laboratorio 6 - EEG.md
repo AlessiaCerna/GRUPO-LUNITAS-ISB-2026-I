@@ -64,6 +64,8 @@ La participante abrió los ojos y mantuvo la mirada fija en un punto durante 1 m
 
 ### 3.2.4 Prueba 3 - Ritmo basal
 Se realizó nuevamente un registro basal de 30 segundos para comparar la estabilidad de la señal EEG respecto a la primera prueba.
+<p align="center">
+<img width="592" height="462" alt="image" src="https://github.com/user-attachments/assets/a11ac763-098d-4a47-9d23-8e3aa4c78a9f" />
 
 
 ### 3.2.5 Prueba 4 - Parpadeo constante y masticación
@@ -75,9 +77,15 @@ Se efectuó un registro basal adicional de 30 segundos posterior a la generació
 
 ### 3.2.7 Prueba 6 - Música relajante
 La participante escuchó música durante 30 segundos con el objetivo de inducir a un estado de relajación y evaluar posibles cambios en la actividad cerebral.
+<p align="center">
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/00802f22-9e19-40dd-a4ec-6e78abfbcd21" />
+
 
 ### 3.2.8 Prueba 7 - Música estresante
 La participante esuchó música ruidosa y estresante durante 30 segundos, buscando generar un estado de incomodidad y comparar las variaciones de la señal EEG respecto a la prueba anterior.
+<p align="center">
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/da681182-2cb7-4ab9-8488-d22683831f73" />
+
 
 ## 4. Procesamiento y visualización de señales ECG en Python
 
