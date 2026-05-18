@@ -78,7 +78,7 @@ La participante realizó parpadeos continuos y movimientos de masticación duran
 ### 3.2.6 Prueba 5 - Ritmo basal
 Se efectuó un registro basal adicional de 30 segundos posterior a la generación de artefactos, permitiendo observar la recuperación de la señal.
 <p align="center">
-<img width="448" height="377" alt="image" src="https://github.com/user-attachments/assets/55731267-5c47-4392-9ab4-c284d0202205" />
+<img width="448" height="377" alt="image" src="https://github.com/AlessiaCerna/GRUPO-LUNITAS-ISB-2026-I/blob/main/Multimedia/EEG/Captura%20de%20pantalla%202026-05-17%20224331.png" />
 
 
 ### 3.2.7 Prueba 6 - Música relajante
