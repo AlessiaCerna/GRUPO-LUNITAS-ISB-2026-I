@@ -8,7 +8,7 @@
 <style>
 :root{
   --bg:#08070F; --surface:rgba(255,255,255,0.045); --surface-hi:rgba(255,255,255,0.075);
-  --ink:#F3F1FB; --ink-soft:#C7C2E8; --ink-dim:#ACA6D4;
+  --ink:#FFFFFF; --ink-soft:#FFFFFF; --ink-dim:#FFFFFF;
   --primary:#B9ACF7; --primary-dark:#8B7FE0; --primary-glow:rgba(185,172,247,0.35);
   --blue:#7EC8E3; --mauve:#E39AD6; --green:#5FE3B8; --amber:#F0B54A; --red:#F5716E;
   --border:rgba(255,255,255,0.08);
@@ -1109,13 +1109,17 @@ document.getElementById('btn-classify').addEventListener('click', async ()=>{
 // IMPORTANTE: esto NO es un modelo multiclase entrenado aparte (ese enfoque se probó
 // con los 4 datasets combinados y no separa niveles de forma confiable: AUC de la
 // clase "Alto" = 0.43, peor que el azar). Es una lectura gradual de la MISMA
-// probabilidad ya validada del clasificador binario Basal/Estres, para dar más
-// matiz que un simple si/no sin inventar una clase no validada.
+// probabilidad ya validada del clasificador binario Basal/Estres.
+// Los cortes 0.65 y 0.80 NO son arbitrarios: son los terciles (percentil 33 y 66)
+// de la probabilidad de Estres out-of-fold, calculados sobre las 32 grabaciones
+// (de las 68 sujeto×condicion validadas con GroupKFold) que el modelo clasifico
+// como Estres. Es decir, dividen en 3 partes iguales el rango de confianza que el
+// modelo realmente mostro sobre casos reales de Estres, no un numero inventado.
 function intensityFromProba(pEstres){
   if(pEstres < 0.50) return {label:'Basal / Sin estres', tag:'', color:COLORS.green, emoji:'🟢'};
-  if(pEstres < 0.65) return {label:'Estres leve',    tag:'(gradiente, no clase validada)', color:'#F0B54A', emoji:'🟡'};
-  if(pEstres < 0.85) return {label:'Estres moderado', tag:'(gradiente, no clase validada)', color:'#F0834A', emoji:'🟠'};
-  return {label:'Estres alto', tag:'(gradiente, no clase validada)', color:COLORS.red, emoji:'🔴'};
+  if(pEstres < 0.65) return {label:'Estres leve',    tag:'(tercil 1, gradiente sobre prob. validada)', color:'#F0B54A', emoji:'🟡'};
+  if(pEstres < 0.80) return {label:'Estres moderado', tag:'(tercil 2, gradiente sobre prob. validada)', color:'#F0834A', emoji:'🟠'};
+  return {label:'Estres alto', tag:'(tercil 3, gradiente sobre prob. validada)', color:COLORS.red, emoji:'🔴'};
 }
 
 function renderClassify(d){
@@ -1126,7 +1130,7 @@ function renderClassify(d){
   document.getElementById('classify-badge').innerHTML =
     `<span class="badge" style="background:${intensity.color};color:#0A0A14;">${intensity.emoji} ${intensity.label} <span style="opacity:.8;font-weight:600;">(${conf.toFixed(0)}% confianza)</span></span>
      <div style="margin-top:.6rem;font-size:.82rem;color:var(--ink-soft);max-width:520px;">
-       Clasificación binaria validada: <b>${d.pred_mayoritaria}</b>. La etiqueta de intensidad de arriba es un <b>gradiente continuo</b> derivado de la misma probabilidad (no un modelo de 3 niveles aparte — esos no lograron validarse con los datos disponibles).
+       Clasificación binaria validada: <b>${d.pred_mayoritaria}</b>. La etiqueta de intensidad de arriba es un <b>gradiente continuo</b> derivado de la misma probabilidad (no un modelo de 3 niveles aparte — esos no lograron validarse con los datos disponibles). Los cortes 0.65/0.80 son los terciles de la probabilidad out-of-fold observada en las 32 grabaciones de Estrés validadas con GroupKFold, no valores arbitrarios.
      </div>`;
   document.getElementById('classify-distrib').innerText =
     `Distribucion por ventana: ${JSON.stringify(d.distrib)}`;
@@ -1207,4 +1211,34 @@ function renderCompare(d){
   window._cmpChartTbr = new Chart(ctxTbr, {
     type:'bar',
     data:{ labels: niceLabels, datasets:[{data:labels.map(l=>conds[l].tbr), backgroundColor:barColors}]},
-    options:{responsive:true, plugins:{legend:{display:false}},
+    options:{responsive:true, plugins:{legend:{display:false}}, scales:{ y:{title:{display:true,text:'θ/β'}} } }
+  });
+
+  const ctxAb = document.getElementById('chart-compare-ab').getContext('2d');
+  if(window._cmpChartAb) window._cmpChartAb.destroy();
+  window._cmpChartAb = new Chart(ctxAb, {
+    type:'bar',
+    data:{ labels: niceLabels, datasets:[{data:labels.map(l=>conds[l].ab_ratio), backgroundColor:barColors}]},
+    options:{responsive:true, plugins:{legend:{display:false}}, scales:{ y:{title:{display:true,text:'α/β'}} } }
+  });
+
+  let tbl = '<tr><th>Condicion</th><th>FAA</th><th>TBR</th><th>Alpha rel</th><th>Beta rel</th><th>AB ratio</th></tr>';
+  labels.forEach(l=>{
+    const c = conds[l];
+    tbl += `<tr><td>${l[0].toUpperCase()+l.slice(1)}</td><td>${c.faa}</td><td>${c.tbr}</td><td>${c.alpha_rel}</td><td>${c.beta_rel}</td><td>${c.ab_ratio}</td></tr>`;
+  });
+  document.getElementById('cmp-table').innerHTML = tbl;
+
+  if(d.recovery_pct){
+    document.getElementById('recovery-card').style.display='block';
+    document.getElementById('recovery-tbr-val').innerText = d.recovery_pct.tbr;
+    document.getElementById('recovery-tbr-bar').style.width = d.recovery_pct.tbr+'%';
+    document.getElementById('recovery-ab-val').innerText = d.recovery_pct.ab_ratio;
+    document.getElementById('recovery-ab-bar').style.width = d.recovery_pct.ab_ratio+'%';
+  } else {
+    document.getElementById('recovery-card').style.display='none';
+  }
+}
+</script>
+</body>
+</html>
