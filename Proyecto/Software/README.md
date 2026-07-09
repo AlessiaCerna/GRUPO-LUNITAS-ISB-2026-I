@@ -23,7 +23,3 @@ Interfaz web standalone (HTML/JS, sin servidor) con el motor DSP embebido: sube 
 
 **`modelo_binario_delta_basal_v2_mejorado.pkl`**
 Modelo final: Random Forest binario (`max_depth=8`, `n_estimators=300`, `class_weight='balanced'`), entrenado sobre 3395 ventanas (aumentadas por ventaneo solapado al 50% desde las 1729 ventanas originales de 34 sujetos) y con hiperparámetros ajustados por búsqueda en grilla validada con GroupKFold.
-
-## Qué no se incluye aquí
-
-El enfoque multiclase (clasificación en niveles Bajo/Moderado/Alto con normalización poblacional StandardScaler) se exploró primero pero se descartó como resultado principal: validado correctamente por sujeto, apenas superaba el azar (44–56% de accuracy contra 33% de azar, AUC de la clase "Alto" por debajo de 0.5). Los artefactos de esa versión (`modelo_estres_multiclase*.pkl`, `scaler_estres_v2.pkl`) no se suben aquí para no confundirlos con el sistema binario validado, que es el que se reporta en el poster y el paper del proyecto.
