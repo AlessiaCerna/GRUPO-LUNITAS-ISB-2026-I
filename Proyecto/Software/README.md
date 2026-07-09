@@ -1,4 +1,4 @@
-# MindBalance — Software
+# MindBalance
 
 Código y modelo final del clasificador binario de estrés académico a partir de biomarcadores EEG (Basal vs. Estrés), con normalización por basal individual para superar el domain shift entre dispositivos.
 
